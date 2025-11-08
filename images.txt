@@ -1,5 +1,5 @@
 nginx
-python:3.12-slim-bookworm⁠
+python:3.12.12-slim-bookworm
 node
 alpine
 astral/uv
